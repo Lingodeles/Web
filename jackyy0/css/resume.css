@@ -1,0 +1,88 @@
+html,button, input, select, textarea { color: #444; }
+html{
+	font-size:1em;
+	line-height: 1.4;
+	background-color: #FFF;
+}
+
+article dt{
+	font-family: felipa, sans-serif;
+	color:#630034;
+	font-size: 1.3em;
+}
+
+article dd{
+	font-family: flamenco, sans-serif;
+	color: black;
+	font-size: 1.2em;
+}
+
+footer{
+	background-color: #AFC;
+	max-width: 900px;
+	min-width:320px;
+	margin:auto;
+	padding-left: 10px;
+	padding-right:10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	box-shadow: 0 2px 4px rgba(F,F,F,F);
+	text-align: center;
+}
+
+h2{ 
+	font-size:2em;
+	text-align:center;
+	font-family: bad-script, sans-serif;
+ }
+
+h3{
+	font-size:1.5em;
+	text-align: left;
+	font-family: bad-script, cursive;
+	color: #4EA9A0; 
+	
+}
+
+header{
+	background-color: darkgoldenrod;
+	max-width: 900px;
+	min-width:320px;
+	margin:auto;
+	font-family: bentham, serif;
+	font-size: 1.2em;
+	padding-left: 10px;
+	padding-right:10px;
+	padding-top:1px;
+	box-shadow: 0 2px 4px rgba(F,F,F,F);
+}
+
+header img{
+	margin-right: 5px;
+	float:right;
+	width:150px;
+	height:170px;
+	border-image-width: 1px;
+	border-image-color: #FFF;
+	border-radius: 10px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+#nom{ 
+	font-family: caudex, serif;
+	font-size: 1.3em; 
+}
+
+#wrapper{
+	background-color: #FCB;
+	max-width: 900px;
+	min-width:320px;
+	margin:auto;
+	padding-left:10px;
+	padding-right:10px;	
+	padding-top:10px;
+	padding-bottom:10px;	
+	box-shadow: 0 2px 4px rgba(F,F,F,F);
+}
+
+
